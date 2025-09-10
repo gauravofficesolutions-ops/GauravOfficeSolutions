@@ -1,0 +1,23 @@
+{
+  "name": "gaurav-office-solutions",
+  "version": "1.0.0",
+  "description": "Gaurav Solutions - Premium Waste Management & Packaging Solutions",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Static site - no build required'",
+    "start": "echo 'Static site - no start script required'"
+  },
+  "keywords": [
+    "waste management",
+    "packaging solutions",
+    "office supplies",
+    "industrial products"
+  ],
+  "author": "JAYESH JAMARIYA - Gaurav Solutions",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/gaurav-office-solutions.git"
+  },
+  "homepage": "https://gauravsolutions.vercel.app"
+}

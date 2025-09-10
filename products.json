@@ -1,0 +1,830 @@
+[
+  {
+    "name": "Air Freshener Products Febreze",
+    "category": "Fresheners",
+    "description": "Premium air freshener products from Febreze for home and office spaces.",
+    "readMore": "Febreze air fresheners provide long-lasting fragrance and eliminate odors effectively. Perfect for offices, homes, and commercial spaces. Available in various scents and formats for different needs.",
+    "image": "product_images/AirFreshenerProductsFebreze.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Air Freshener Products Febreze. Please provide more details."
+  },
+  {
+    "name": "12mm Orange Box PP Strapping Rolls",
+    "category": "Materials",
+    "description": "High-quality polypropylene strapping rolls in orange color for secure packaging.",
+    "readMore": "Professional-grade PP strapping rolls with 12mm width, perfect for heavy-duty packaging applications. Durable, weather-resistant, and ideal for industrial and commercial use.",
+    "image": "product_images/12mmorangeboxppstrappingrolls.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in 12mm Orange Box PP Strapping Rolls. Please provide more details."
+  },
+  {
+    "name": "Air First Air Fresheners",
+    "category": "Fresheners",
+    "description": "Effective air fresheners for maintaining fresh indoor air quality.",
+    "readMore": "Air First air fresheners offer superior odor control and pleasant fragrances. Suitable for various indoor environments including offices, restrooms, and common areas.",
+    "image": "product_images/AirFirstAirFresheners.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Air First Air Fresheners. Please provide more details."
+  },
+  {
+    "name": "Air Sure Temple Dhoop Room Freshener",
+    "category": "Fresheners",
+    "description": "Traditional temple dhoop room freshener for aromatic indoor spaces.",
+    "readMore": "Air Sure temple dhoop provides authentic traditional fragrance for rooms and spaces. Natural ingredients and long-lasting aroma perfect for creating a peaceful atmosphere.",
+    "image": "product_images/AirSureTempleDhoopRoomFreshener.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Air Sure Temple Dhoop Room Freshener. Please provide more details."
+  },
+  {
+    "name": "Automatic Strapping Machine",
+    "category": "Machines",
+    "description": "Professional automatic strapping machine for efficient packaging operations.",
+    "readMore": "High-performance automatic strapping machine designed for industrial packaging needs. Features include automatic tension control, cutting, and sealing for consistent results.",
+    "image": "product_images/Automaticstrappingmachine.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Automatic Strapping Machine. Please provide more details."
+  },
+  {
+    "name": "Bajaj Strapping Rolls",
+    "category": "Materials",
+    "description": "Premium quality strapping rolls from Bajaj for secure packaging solutions.",
+    "readMore": "Bajaj strapping rolls offer excellent tensile strength and durability. Perfect for bundling, packaging, and securing various materials in industrial and commercial applications.",
+    "image": "product_images/BajajSTRAPPINGROLLS.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Bajaj Strapping Rolls. Please provide more details."
+  },
+  {
+    "name": "Bio Medical Waste Collection Bin",
+    "category": "Bins",
+    "description": "Specialized bin for safe collection of bio-medical waste materials.",
+    "readMore": "Designed specifically for bio-medical waste collection with safety features and proper containment. Meets healthcare industry standards for waste management and disposal.",
+    "image": "product_images/Bio-medicalwastecollectionbin.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Bio Medical Waste Collection Bin. Please provide more details."
+  },
+  {
+    "name": "Biohazard Garbage Bag",
+    "category": "Bags",
+    "description": "Heavy-duty biohazard garbage bags for safe disposal of medical waste.",
+    "readMore": "Specialized biohazard garbage bags designed for medical and healthcare facilities. Features include proper thickness, leak-proof design, and clear biohazard markings for safety compliance.",
+    "image": "product_images/Biohazardgarbagebag.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Biohazard Garbage Bag. Please provide more details."
+  },
+  {
+    "name": "Biomedical Waste Dustbin",
+    "category": "Bins",
+    "description": "Dedicated dustbin for biomedical waste disposal in healthcare facilities.",
+    "readMore": "Professional biomedical waste dustbin with proper safety features and containment design. Ideal for hospitals, clinics, and medical facilities requiring compliant waste management solutions.",
+    "image": "product_images/Biomedicalwastedustbin.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Biomedical Waste Dustbin. Please provide more details."
+  },
+  {
+    "name": "Black Garbage Bags",
+    "category": "Bags",
+    "description": "Heavy-duty black garbage bags for general waste disposal needs.",
+    "readMore": "High-quality black garbage bags suitable for various waste disposal applications. Durable construction and leak-proof design make them perfect for home, office, and commercial use.",
+    "image": "product_images/BlackGarbageBags.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Black Garbage Bags. Please provide more details."
+  },
+  {
+    "name": "Bubble Wrap Roll",
+    "category": "Materials",
+    "description": "Protective bubble wrap roll for packaging fragile items safely.",
+    "readMore": "Premium bubble wrap rolls provide excellent protection for fragile items during shipping and storage. Air-filled bubbles cushion against impacts and vibrations during transit.",
+    "image": "product_images/bubblewraproll.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Bubble Wrap Roll. Please provide more details."
+  },
+  {
+    "name": "Cello BOPP Tape",
+    "category": "Materials",
+    "description": "High-quality BOPP tape from Cello for secure packaging and sealing.",
+    "readMore": "Cello BOPP tape offers excellent adhesion and durability for packaging applications. Clear, strong, and weather-resistant tape perfect for sealing boxes and general packaging needs.",
+    "image": "product_images/CelloBOPPtape.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Cello BOPP Tape. Please provide more details."
+  },
+  {
+    "name": "Cleaner Broom",
+    "category": "Cleaning",
+    "description": "Professional cleaning broom for effective floor maintenance.",
+    "readMore": "High-quality cleaning broom designed for professional cleaning applications. Durable bristles and ergonomic handle provide efficient cleaning performance for various floor types.",
+    "image": "product_images/cleanerbroom.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Cleaner Broom. Please provide more details."
+  },
+  {
+    "name": "Cleaning Supplies",
+    "category": "Cleaning",
+    "description": "Comprehensive range of professional cleaning supplies and equipment.",
+    "readMore": "Complete cleaning supplies collection including brushes, mops, cleaning solutions, and accessories. Professional-grade products suitable for commercial and industrial cleaning applications.",
+    "image": "product_images/Cleaningsupplies.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Cleaning Supplies. Please provide more details."
+  },
+  {
+    "name": "Cleaning Supplies in Bucket",
+    "category": "Cleaning",
+    "description": "Organized cleaning supplies set in convenient bucket container.",
+    "readMore": "Complete cleaning kit with all essential supplies organized in a durable bucket. Includes various cleaning tools, solutions, and accessories for efficient cleaning operations.",
+    "image": "product_images/Cleaningsuppliesinbucket.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Cleaning Supplies in Bucket. Please provide more details."
+  },
+  {
+    "name": "Cleaning Supplies Liquids",
+    "category": "Cleaning",
+    "description": "Professional cleaning liquid solutions for various cleaning applications.",
+    "readMore": "High-quality cleaning liquid solutions designed for different surfaces and cleaning needs. Professional-grade formulas that provide effective cleaning while being safe for various applications.",
+    "image": "product_images/CleaningsuppliesLiduids.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Cleaning Supplies Liquids. Please provide more details."
+  },
+  {
+    "name": "Clean Washroom Towel Tissue",
+    "category": "Cleaning",
+    "description": "Soft and absorbent washroom towel tissue for hygiene maintenance.",
+    "readMore": "Premium washroom towel tissue designed for optimal absorbency and softness. Perfect for hand drying and general cleaning applications in restrooms and washrooms.",
+    "image": "product_images/cleanWashroomtowelTissue.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Clean Washroom Towel Tissue. Please provide more details."
+  },
+  {
+    "name": "Cosmos Jumbo Ro Tape",
+    "category": "Materials",
+    "description": "Heavy-duty jumbo tape roll for industrial packaging applications.",
+    "readMore": "Cosmos jumbo tape roll provides superior strength and adhesion for heavy-duty packaging needs. Ideal for industrial applications requiring reliable sealing and protection.",
+    "image": "product_images/CosmosJumboRoTape.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Cosmos Jumbo Ro Tape. Please provide more details."
+  },
+  {
+    "name": "Crompton Strapping Roll",
+    "category": "Materials",
+    "description": "Premium strapping roll from Crompton for secure packaging solutions.",
+    "readMore": "Crompton strapping rolls offer excellent durability and tensile strength for various packaging applications. Professional-grade quality suitable for industrial and commercial use.",
+    "image": "product_images/cromptonstrappingroll.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Crompton Strapping Roll. Please provide more details."
+  },
+  {
+    "name": "Diversey Crew Floor Cleaner",
+    "category": "Cleaning",
+    "description": "Professional floor cleaner from Diversey for effective floor maintenance.",
+    "readMore": "Diversey Crew floor cleaner provides superior cleaning performance for various floor types. Professional-grade formula removes dirt, stains, and maintains floor appearance effectively.",
+    "image": "product_images/DiverseyCrewFloorCleaner.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Diversey Crew Floor Cleaner. Please provide more details."
+  },
+  {
+    "name": "Diversey Soft Care Shampoo and Shower Gel",
+    "category": "Cleaning",
+    "description": "Gentle shampoo and shower gel from Diversey for personal care applications.",
+    "readMore": "Diversey Soft Care shampoo and shower gel provides gentle yet effective cleaning for personal care needs. Professional-grade formula suitable for various hygiene applications.",
+    "image": "product_images/DiverseySoftCareShampooandShowerGel.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Diversey Soft Care Shampoo and Shower Gel. Please provide more details."
+  },
+  {
+    "name": "Diversey Soft Care Star Gentle Hand Cleanser",
+    "category": "Cleaning",
+    "description": "Gentle hand cleanser from Diversey for effective hand hygiene.",
+    "readMore": "Diversey Soft Care Star gentle hand cleanser provides effective cleaning while being gentle on skin. Professional-grade formula perfect for frequent hand washing applications.",
+    "image": "product_images/DiverseySoftCareStarGentleHandCleanser.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Diversey Soft Care Star Gentle Hand Cleanser. Please provide more details."
+  },
+  {
+    "name": "Diversey Sumabrite All Rounder Cleaner",
+    "category": "Cleaning",
+    "description": "Versatile all-rounder cleaner from Diversey for multiple cleaning applications.",
+    "readMore": "Diversey Sumabrite all-rounder cleaner provides effective cleaning for various surfaces and applications. Professional-grade formula suitable for multiple cleaning needs.",
+    "image": "product_images/DiverseySumabriteAllRounderCleaner.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Diversey Sumabrite All Rounder Cleaner. Please provide more details."
+  },
+  {
+    "name": "Diversey Taski Carpet Detergent",
+    "category": "Cleaning",
+    "description": "Professional carpet detergent from Diversey for effective carpet cleaning.",
+    "readMore": "Diversey Taski carpet detergent provides superior cleaning performance for carpets and upholstery. Professional-grade formula removes stains and maintains carpet appearance.",
+    "image": "product_images/DiverseyTaskiCarpetDetergent.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Diversey Taski Carpet Detergent. Please provide more details."
+  },
+  {
+    "name": "Diversey Taski Jontec Terranova Liquid Crystaliser",
+    "category": "Cleaning",
+    "description": "Professional liquid crystaliser from Diversey for surface treatment.",
+    "readMore": "Diversey Taski Jontec Terranova liquid crystaliser provides effective surface treatment and protection. Professional-grade formula for various cleaning and maintenance applications.",
+    "image": "product_images/DiverseyTaskiJontecTerranovaLiquidCrystaliser.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Diversey Taski Jontec Terranova Liquid Crystaliser. Please provide more details."
+  },
+  {
+    "name": "Diversey Taski TR103 Carpet Detergent",
+    "category": "Cleaning",
+    "description": "Specialized carpet detergent TR103 from Diversey for professional carpet care.",
+    "readMore": "Diversey Taski TR103 carpet detergent offers specialized cleaning for carpets and upholstery. Professional-grade formula designed for effective stain removal and carpet maintenance.",
+    "image": "product_images/DiverseyTaskiTR103CarpetDetergent.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Diversey Taski TR103 Carpet Detergent. Please provide more details."
+  },
+  {
+    "name": "Dura Floor Protector",
+    "category": "Materials",
+    "description": "Durable floor protection material for temporary surface protection.",
+    "readMore": "Dura floor protector provides excellent protection for floors during construction, renovation, or maintenance work. High-quality material that prevents damage and maintains floor integrity.",
+    "image": "product_images/DuraFloorProtector.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Dura Floor Protector. Please provide more details."
+  },
+  {
+    "name": "Feather Duster Cleaner Brush",
+    "category": "Cleaning",
+    "description": "Soft feather duster brush for gentle dusting and cleaning applications.",
+    "readMore": "Feather duster cleaner brush provides gentle yet effective dusting for various surfaces. Soft bristles capture dust without scratching delicate surfaces, perfect for regular maintenance.",
+    "image": "product_images/featherdustercleanerbrush.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Feather Duster Cleaner Brush. Please provide more details."
+  },
+  {
+    "name": "Floor Protector Sheet",
+    "category": "Materials",
+    "description": "Protective floor sheet for temporary floor protection during work.",
+    "readMore": "Floor protector sheet provides reliable protection for floors during construction, painting, or maintenance activities. Durable material that prevents damage and is easy to install and remove.",
+    "image": "product_images/FloorProtectorSheet.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Floor Protector Sheet. Please provide more details."
+  },
+  {
+    "name": "Floor Waterproofing Material",
+    "category": "Materials",
+    "description": "Professional floor waterproofing material for surface protection.",
+    "readMore": "Floor waterproofing material provides effective protection against water damage and moisture. Professional-grade formula suitable for various floor types and applications.",
+    "image": "product_images/FloorWaterproofingMaterial.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Floor Waterproofing Material. Please provide more details."
+  },
+  {
+    "name": "Floor Wiper",
+    "category": "Cleaning",
+    "description": "Professional floor wiper for effective floor cleaning and maintenance.",
+    "readMore": "Floor wiper provides efficient cleaning for various floor types. Professional-grade design with effective cleaning capabilities for regular floor maintenance.",
+    "image": "product_images/FloorWiper.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Floor Wiper. Please provide more details."
+  },
+  {
+    "name": "Garbage Bag",
+    "category": "Bags",
+    "description": "Heavy-duty garbage bags for general waste disposal needs.",
+    "readMore": "High-quality garbage bags suitable for various waste disposal applications. Durable construction and leak-proof design make them perfect for home, office, and commercial use.",
+    "image": "product_images/Garbagebag.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Garbage Bag. Please provide more details."
+  },
+  {
+    "name": "Garbage Bag Roll",
+    "category": "Bags",
+    "description": "Convenient garbage bag roll for continuous waste disposal needs.",
+    "readMore": "Garbage bag roll provides convenient continuous supply of bags for waste disposal. Easy-to-use design with perforated edges for quick separation and deployment.",
+    "image": "product_images/GarbageBagRoll.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Garbage Bag Roll. Please provide more details."
+  },
+  {
+    "name": "Garbage Bags",
+    "category": "Bags",
+    "description": "Premium garbage bags for reliable waste disposal solutions.",
+    "readMore": "Premium garbage bags offer superior strength and durability for various waste disposal needs. Professional-grade quality suitable for heavy-duty applications.",
+    "image": "product_images/Garbagebags.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Garbage Bags. Please provide more details."
+  },
+  {
+    "name": "General Quality Stationary",
+    "category": "Stationery",
+    "description": "High-quality general stationery supplies for office and educational needs.",
+    "readMore": "General quality stationery provides essential supplies for office, educational, and personal use. Comprehensive range of products designed for various writing and documentation needs.",
+    "image": "product_images/GeneralQualityStationary.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in General Quality Stationary. Please provide more details."
+  },
+  {
+    "name": "Gomsun Plastic Rectangular Pedal Wheel Bin",
+    "category": "Bins",
+    "description": "Durable plastic rectangular pedal wheel bin for efficient waste management.",
+    "readMore": "Gomsun plastic rectangular pedal wheel bin combines functionality with mobility. Features pedal operation, wheels for easy movement, and rectangular design for space efficiency.",
+    "image": "product_images/GomsunPlasticRectangularpedalWheelBin.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Gomsun Plastic Rectangular Pedal Wheel Bin. Please provide more details."
+  },
+  {
+    "name": "Green Dreams Garbage Bags",
+    "category": "Bags",
+    "description": "Eco-friendly garbage bags from Green Dreams for sustainable waste disposal.",
+    "readMore": "Green Dreams garbage bags offer eco-friendly waste disposal solutions. Made from sustainable materials while maintaining durability and performance for various applications.",
+    "image": "product_images/GreenDreamsGarbageBags.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Green Dreams Garbage Bags. Please provide more details."
+  },
+  {
+    "name": "HDPE Geomembrane Sheet",
+    "category": "Materials",
+    "description": "High-density polyethylene geomembrane sheet for waterproofing applications.",
+    "readMore": "HDPE geomembrane sheet provides excellent waterproofing and containment solutions. Professional-grade material suitable for various industrial and environmental applications.",
+    "image": "product_images/HDPEgeomembranesheet.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in HDPE Geomembrane Sheet. Please provide more details."
+  },
+  {
+    "name": "Household Cleaning",
+    "category": "Cleaning",
+    "description": "Comprehensive household cleaning supplies and equipment collection.",
+    "readMore": "Complete household cleaning collection includes all essential supplies for home maintenance. Professional-grade products suitable for various household cleaning needs.",
+    "image": "product_images/HouseholdCleaning.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Household Cleaning. Please provide more details."
+  },
+  {
+    "name": "Kosher Soft Tissue Napkins",
+    "category": "Cleaning",
+    "description": "Soft and absorbent tissue napkins for dining and personal use.",
+    "readMore": "Kosher soft tissue napkins provide excellent absorbency and softness for dining and personal hygiene. High-quality material suitable for various applications.",
+    "image": "product_images/KosherSoftTissueNapkins.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Kosher Soft Tissue Napkins. Please provide more details."
+  },
+  {
+    "name": "Kosher Toilet Tissue",
+    "category": "Cleaning",
+    "description": "Premium toilet tissue for hygiene and comfort.",
+    "readMore": "Kosher toilet tissue offers superior softness and strength for personal hygiene needs. High-quality material designed for comfort and reliability.",
+    "image": "product_images/KosherToiletTissue.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Kosher Toilet Tissue. Please provide more details."
+  },
+  {
+    "name": "Lime Green Wheelie Bin",
+    "category": "Bins",
+    "description": "Durable lime green wheelie bin for efficient waste collection and transport.",
+    "readMore": "Lime green wheelie bin provides excellent waste collection and transport capabilities. Features wheels for easy movement and durable construction for long-term use.",
+    "image": "product_images/LimeGreenWheelieBin.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Lime Green Wheelie Bin. Please provide more details."
+  },
+  {
+    "name": "Limsatisu Industrial Dryer Paper Roll",
+    "category": "Materials",
+    "description": "Industrial dryer paper roll for commercial drying applications.",
+    "readMore": "Limsatisu industrial dryer paper roll provides efficient drying solutions for commercial applications. Professional-grade material suitable for various industrial drying needs.",
+    "image": "product_images/Limsatisuindustrialdryerpaperroll.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Limsatisu Industrial Dryer Paper Roll. Please provide more details."
+  },
+  {
+    "name": "Manual Strapping Tool",
+    "category": "Machines",
+    "description": "Hand-operated strapping tool for secure packaging applications.",
+    "readMore": "Manual strapping tool provides reliable strapping for packaging applications. Easy-to-use design with professional-grade performance for various strapping needs.",
+    "image": "product_images/ManualStrappingTool.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Manual Strapping Tool. Please provide more details."
+  },
+  {
+    "name": "Microfiber Cloth",
+    "category": "Cleaning",
+    "description": "High-quality microfiber cloth for effective cleaning applications.",
+    "readMore": "Microfiber cloth provides superior cleaning performance with excellent absorbency and durability. Perfect for various cleaning applications including glass, surfaces, and equipment.",
+    "image": "product_images/microfiber-cloth.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Microfiber Cloth. Please provide more details."
+  },
+  {
+    "name": "Moppx Cleaning Mop",
+    "category": "Cleaning",
+    "description": "Professional cleaning mop for effective floor maintenance.",
+    "readMore": "Moppx cleaning mop provides efficient floor cleaning with professional-grade performance. Durable design suitable for various floor types and cleaning applications.",
+    "image": "product_images/Moppxcleaningmop.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Moppx Cleaning Mop. Please provide more details."
+  },
+  {
+    "name": "Nandne Smart Floor Squeegee Wiper",
+    "category": "Cleaning",
+    "description": "Smart floor squeegee wiper for efficient floor cleaning and maintenance.",
+    "readMore": "Nandne smart floor squeegee wiper combines squeegee and wiper functionality for effective floor maintenance. Professional-grade design for various cleaning applications.",
+    "image": "product_images/NandneSmartFloorSqueegeeWiper.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Nandne Smart Floor Squeegee Wiper. Please provide more details."
+  },
+  {
+    "name": "Odonil SANDAL BOUQUET Car Freshener Spray",
+    "category": "Fresheners",
+    "description": "Premium car freshener spray with sandal bouquet fragrance.",
+    "readMore": "Odonil SANDAL BOUQUET car freshener spray provides long-lasting fragrance for vehicles. Premium quality with pleasant sandal bouquet scent for enhanced driving experience.",
+    "image": "product_images/OdonilSANDALBOUQUETCarFreshenerSpray.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Odonil SANDAL BOUQUET Car Freshener Spray. Please provide more details."
+  },
+  {
+    "name": "Office Supplies",
+    "category": "Stationery",
+    "description": "Comprehensive range of office supplies for professional workspace needs.",
+    "readMore": "Complete office supplies collection includes all essential items for professional workspaces. High-quality products designed for efficiency and productivity in office environments.",
+    "image": "product_images/Officesupplies.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Office Supplies. Please provide more details."
+  },
+  {
+    "name": "Ozone Homz Stainless Steel Dustbin",
+    "category": "Bins",
+    "description": "Premium stainless steel dustbin from Ozone Homz for durable waste management.",
+    "readMore": "Ozone Homz stainless steel dustbin offers superior durability and hygiene for waste management. Professional-grade construction with easy-to-clean stainless steel surface.",
+    "image": "product_images/OzoneHomzStainlessSteelDustbin.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Ozone Homz Stainless Steel Dustbin. Please provide more details."
+  },
+  {
+    "name": "Packaging Supplies",
+    "category": "Materials",
+    "description": "Comprehensive packaging supplies for secure and efficient packaging solutions.",
+    "readMore": "Complete packaging supplies collection includes all essential materials for secure packaging. Professional-grade products suitable for various packaging needs and applications.",
+    "image": "product_images/Packagingsupplies.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Packaging Supplies. Please provide more details."
+  },
+  {
+    "name": "Pack Small Spiral Notepad",
+    "category": "Stationery",
+    "description": "Compact spiral notepad for convenient note-taking and organization.",
+    "readMore": "Pack small spiral notepad provides convenient note-taking solution with spiral binding for easy page turning. Perfect for meetings, classes, and personal organization.",
+    "image": "product_images/PackSmallSpiralNotepad.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Pack Small Spiral Notepad. Please provide more details."
+  },
+  {
+    "name": "Paper Towel Scott Hardwound Roll",
+    "category": "Cleaning",
+    "description": "Professional paper towel roll from Scott for effective cleaning applications.",
+    "readMore": "Scott hardwound paper towel roll provides superior absorbency and strength for cleaning applications. Professional-grade quality suitable for commercial and industrial use.",
+    "image": "product_images/PaperTowelScottHardwoundRoll.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Paper Towel Scott Hardwound Roll. Please provide more details."
+  },
+  {
+    "name": "Plastic 50 Litre Outdoor Dustbin with Dome Lid",
+    "category": "Bins",
+    "description": "Large capacity outdoor dustbin with dome lid for weather protection.",
+    "readMore": "Plastic 50 litre outdoor dustbin with dome lid provides excellent weather protection and large capacity for outdoor waste management. Durable construction suitable for various outdoor applications.",
+    "image": "product_images/Plastic50litreoutdoordustbinwithdomelid.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Plastic 50 Litre Outdoor Dustbin with Dome Lid. Please provide more details."
+  },
+  {
+    "name": "Plastic Bag",
+    "category": "Bags",
+    "description": "Versatile plastic bags for various packaging and storage needs.",
+    "readMore": "High-quality plastic bags suitable for various packaging and storage applications. Durable construction and reliable performance for multiple uses.",
+    "image": "product_images/Plasticbag.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Plastic Bag. Please provide more details."
+  },
+  {
+    "name": "Plastic Brooms",
+    "category": "Cleaning",
+    "description": "Durable plastic brooms for effective floor cleaning and maintenance.",
+    "readMore": "Plastic brooms provide effective floor cleaning with durable construction. Professional-grade quality suitable for various cleaning applications and environments.",
+    "image": "product_images/plasticBrooms.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Plastic Brooms. Please provide more details."
+  },
+  {
+    "name": "Plastic Shopping Bag",
+    "category": "Bags",
+    "description": "Convenient plastic shopping bags for retail and commercial use.",
+    "readMore": "Plastic shopping bags provide convenient carrying solution for retail and commercial applications. Durable construction with reliable performance for various shopping needs.",
+    "image": "product_images/Plasticshoppingbag.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Plastic Shopping Bag. Please provide more details."
+  },
+  {
+    "name": "Plastic Waste Segregation Trolley",
+    "category": "Bins",
+    "description": "Specialized trolley for waste segregation and collection applications.",
+    "readMore": "Plastic waste segregation trolley provides organized waste collection and segregation solution. Professional-grade design suitable for various waste management applications.",
+    "image": "product_images/Plasticwastesegregationtrolley.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Plastic Waste Segregation Trolley. Please provide more details."
+  },
+  {
+    "name": "Pneumatic Strapping Tools",
+    "category": "Machines",
+    "description": "Professional pneumatic strapping tools for efficient packaging operations.",
+    "readMore": "Pneumatic strapping tools provide powerful and efficient strapping for industrial packaging needs. Professional-grade equipment suitable for high-volume packaging operations.",
+    "image": "product_images/PneumaticStrappingTools.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Pneumatic Strapping Tools. Please provide more details."
+  },
+  {
+    "name": "Polyolefin Shrink Film",
+    "category": "Materials",
+    "description": "High-quality polyolefin shrink film for secure packaging applications.",
+    "readMore": "Polyolefin shrink film provides excellent packaging protection with shrink-wrap capabilities. Professional-grade material suitable for various packaging and protection needs.",
+    "image": "product_images/Polyolefinshrinkfilm.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Polyolefin Shrink Film. Please provide more details."
+  },
+  {
+    "name": "Polypropylene Strapping Rolls Printed",
+    "category": "Materials",
+    "description": "Printed polypropylene strapping rolls for branded packaging solutions.",
+    "readMore": "Printed polypropylene strapping rolls offer branded packaging solutions with custom printing capabilities. Professional-grade material suitable for various industrial applications.",
+    "image": "product_images/PolypropyleneStrappingrollsPrinted.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Polypropylene Strapping Rolls Printed. Please provide more details."
+  },
+  {
+    "name": "PP Box Strapping Roll",
+    "category": "Materials",
+    "description": "Polypropylene box strapping roll for secure packaging applications.",
+    "readMore": "PP box strapping roll provides reliable strapping for box packaging applications. Professional-grade polypropylene material suitable for various packaging needs.",
+    "image": "product_images/PPBoxStrappingRoll.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in PP Box Strapping Roll. Please provide more details."
+  },
+  {
+    "name": "Proguard Hard Surface Film Blue",
+    "category": "Materials",
+    "description": "Blue hard surface protection film for temporary surface protection.",
+    "readMore": "Proguard hard surface film blue provides excellent protection for hard surfaces during construction and maintenance work. Professional-grade material with easy application and removal.",
+    "image": "product_images/ProguardHardSurfaceFilmBlue.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Proguard Hard Surface Film Blue. Please provide more details."
+  },
+  {
+    "name": "PVC Shrink Color Film",
+    "category": "Materials",
+    "description": "Colorful PVC shrink film for attractive packaging solutions.",
+    "readMore": "PVC shrink color film provides attractive packaging solutions with various color options. Professional-grade material suitable for retail and commercial packaging needs.",
+    "image": "product_images/PVCshrinkcolorfilm.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in PVC Shrink Color Film. Please provide more details."
+  },
+  {
+    "name": "PVC Shrink Sleeve",
+    "category": "Materials",
+    "description": "PVC shrink sleeve for secure and attractive product packaging.",
+    "readMore": "PVC shrink sleeve provides secure and attractive packaging for various products. Professional-grade material with excellent shrink properties for tight packaging.",
+    "image": "product_images/PVCshrinksleeve.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in PVC Shrink Sleeve. Please provide more details."
+  },
+  {
+    "name": "PVC Surface Protection Tape",
+    "category": "Materials",
+    "description": "PVC surface protection tape for temporary surface protection during work.",
+    "readMore": "PVC surface protection tape provides reliable protection for surfaces during construction and maintenance activities. Professional-grade adhesive with easy removal properties.",
+    "image": "product_images/PVCSurfaceProtectionTape.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in PVC Surface Protection Tape. Please provide more details."
+  },
+  {
+    "name": "Q Clean All the Tissues Kit",
+    "category": "Cleaning",
+    "description": "Complete tissue cleaning kit with all essential cleaning tissues.",
+    "readMore": "Q Clean all the tissues kit provides comprehensive cleaning solution with various tissue types. Professional-grade cleaning kit suitable for various cleaning applications.",
+    "image": "product_images/qcleanAllthetissueskit.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Q Clean All the Tissues Kit. Please provide more details."
+  },
+  {
+    "name": "Q Lean Toilet Paper",
+    "category": "Cleaning",
+    "description": "Premium toilet paper from Q Lean for hygiene and comfort.",
+    "readMore": "Q Lean toilet paper offers superior softness and strength for personal hygiene needs. High-quality material designed for comfort and reliability in various applications.",
+    "image": "product_images/Qleantoiletpaper.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Q Lean Toilet Paper. Please provide more details."
+  },
+  {
+    "name": "Ring Binder Files",
+    "category": "Stationery",
+    "description": "Professional ring binder files for document organization and storage.",
+    "readMore": "Ring binder files provide excellent document organization and storage solution. Professional-grade quality suitable for office, educational, and personal use.",
+    "image": "product_images/Ringbinderfiles.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Ring Binder Files. Please provide more details."
+  },
+  {
+    "name": "Round Stainless Steel Ash Can Bins",
+    "category": "Bins",
+    "description": "Round stainless steel ash can bins for ash and waste disposal.",
+    "readMore": "Round stainless steel ash can bins provide durable solution for ash and waste disposal. Professional-grade stainless steel construction with easy-to-clean surface.",
+    "image": "product_images/RoundStainlessSteelAshCanBins.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Round Stainless Steel Ash Can Bins. Please provide more details."
+  },
+  {
+    "name": "Scott Jumbo Roll Tissue",
+    "category": "Cleaning",
+    "description": "Jumbo roll tissue from Scott for high-volume cleaning applications.",
+    "readMore": "Scott jumbo roll tissue provides high-volume cleaning solution with superior absorbency and strength. Professional-grade quality suitable for commercial and industrial use.",
+    "image": "product_images/ScottJumboRollTissue.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Scott Jumbo Roll Tissue. Please provide more details."
+  },
+  {
+    "name": "Sher Grip Sink Brush",
+    "category": "Cleaning",
+    "description": "Professional sink brush with secure grip for effective cleaning.",
+    "readMore": "Sher grip sink brush provides effective cleaning for sinks and similar surfaces. Professional-grade design with secure grip handle for comfortable and efficient cleaning.",
+    "image": "product_images/shergripsinkbrush.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Sher Grip Sink Brush. Please provide more details."
+  },
+  {
+    "name": "Spiral Notebooks",
+    "category": "Stationery",
+    "description": "High-quality spiral notebooks for note-taking and organization.",
+    "readMore": "Spiral notebooks provide convenient note-taking solution with spiral binding for easy page turning. Professional-grade quality suitable for office, educational, and personal use.",
+    "image": "product_images/SpiralNotebooks.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Spiral Notebooks. Please provide more details."
+  },
+  {
+    "name": "Stainless Steel Pedestal Garbage Bin",
+    "category": "Bins",
+    "description": "Premium stainless steel pedestal garbage bin for durable waste management.",
+    "readMore": "Stainless steel pedestal garbage bin offers superior durability and hygiene for waste management. Professional-grade construction with easy-to-clean stainless steel surface.",
+    "image": "product_images/Stainlesssteelpedestalgarbagebin.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Stainless Steel Pedestal Garbage Bin. Please provide more details."
+  },
+  {
+    "name": "Stainless Steel Perforated Dustbin Garbage Bin Washrooms",
+    "category": "Bins",
+    "description": "Perforated stainless steel dustbin designed for washroom applications.",
+    "readMore": "Stainless steel perforated dustbin provides excellent ventilation and drainage for washroom applications. Professional-grade construction with perforated design for optimal performance.",
+    "image": "product_images/StainlessSteelPerforatedDustbinGarbageBinwashrooms.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Stainless Steel Perforated Dustbin Garbage Bin Washrooms. Please provide more details."
+  },
+  {
+    "name": "Stainless Steel Swing Dustbin",
+    "category": "Bins",
+    "description": "Swing-top stainless steel dustbin for convenient waste disposal.",
+    "readMore": "Stainless steel swing dustbin provides convenient waste disposal with swing-top design. Professional-grade construction with easy-to-use swing mechanism for hands-free operation.",
+    "image": "product_images/Stainlesssteelswingdustbin.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Stainless Steel Swing Dustbin. Please provide more details."
+  },
+  {
+    "name": "Stationery Kit",
+    "category": "Stationery",
+    "description": "Complete stationery kit with all essential office supplies.",
+    "readMore": "Complete stationery kit includes all essential office supplies for professional workspace needs. Comprehensive collection designed for efficiency and productivity.",
+    "image": "product_images/Stationerykit.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Stationery Kit. Please provide more details."
+  },
+  {
+    "name": "Strapping Rolls White Vivaan",
+    "category": "Materials",
+    "description": "White strapping rolls from Vivaan for clean packaging solutions.",
+    "readMore": "Vivaan white strapping rolls provide clean and professional packaging solutions. High-quality material suitable for various industrial and commercial applications.",
+    "image": "product_images/StrappingRollsWhiteVivaan.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Strapping Rolls White Vivaan. Please provide more details."
+  },
+  {
+    "name": "Stretch Film",
+    "category": "Materials",
+    "description": "High-quality stretch film for secure packaging and protection.",
+    "readMore": "Stretch film provides excellent packaging protection with stretch-wrap capabilities. Professional-grade material suitable for various packaging and protection needs.",
+    "image": "product_images/Stretchfilm.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Stretch Film. Please provide more details."
+  },
+  {
+    "name": "Stretch Films",
+    "category": "Materials",
+    "description": "Professional stretch films for industrial packaging applications.",
+    "readMore": "Professional stretch films provide superior packaging protection for industrial applications. High-quality material with excellent stretch properties for secure packaging.",
+    "image": "product_images/Stretchfilms.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Stretch Films. Please provide more details."
+  },
+  {
+    "name": "Stretch Wrap",
+    "category": "Materials",
+    "description": "Versatile stretch wrap for secure packaging and protection solutions.",
+    "readMore": "Stretch wrap provides versatile packaging solution with excellent stretch and cling properties. Professional-grade material suitable for various packaging needs.",
+    "image": "product_images/Stretchwrap.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Stretch Wrap. Please provide more details."
+  },
+  {
+    "name": "Sumabrite Multipurpose Cleaning Concentrate Liquid",
+    "category": "Cleaning",
+    "description": "Concentrated multipurpose cleaning liquid for various cleaning applications.",
+    "readMore": "Sumabrite multipurpose cleaning concentrate liquid provides effective cleaning for various surfaces and applications. Professional-grade concentrated formula for efficient cleaning.",
+    "image": "product_images/SumabriteMultipurposeCleaningConcentrateLiquid.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Sumabrite Multipurpose Cleaning Concentrate Liquid. Please provide more details."
+  },
+  {
+    "name": "Sumabrite Multipurpose Cleaning Concentrates",
+    "category": "Cleaning",
+    "description": "Professional multipurpose cleaning concentrates for various cleaning needs.",
+    "readMore": "Sumabrite multipurpose cleaning concentrates provide comprehensive cleaning solutions for various applications. Professional-grade concentrated formulas for efficient cleaning operations.",
+    "image": "product_images/SumabriteMultipurposeCleaningConcentrates.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Sumabrite Multipurpose Cleaning Concentrates. Please provide more details."
+  },
+  {
+    "name": "Taski Ultra Machine Warewashing Liquid",
+    "category": "Cleaning",
+    "description": "Ultra machine warewashing liquid for commercial dishwashing applications.",
+    "readMore": "Taski Ultra machine warewashing liquid provides superior cleaning for commercial dishwashing machines. Professional-grade formula designed for high-performance cleaning.",
+    "image": "product_images/TaskiUltraMachineWarewashingLiquid.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Taski Ultra Machine Warewashing Liquid. Please provide more details."
+  },
+  {
+    "name": "Taski Diverce Hygienic Hard Surface Cleaner",
+    "category": "Cleaning",
+    "description": "Hygienic hard surface cleaner from Taski for professional cleaning applications.",
+    "readMore": "Taski Diverce hygienic hard surface cleaner provides effective cleaning for hard surfaces with hygienic properties. Professional-grade formula suitable for various cleaning applications.",
+    "image": "product_images/taskkidiverceHygienicHardSurfaceCleaner.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Taski Diverce Hygienic Hard Surface Cleaner. Please provide more details."
+  },
+  {
+    "name": "Toilet Cleaner Brush",
+    "category": "Cleaning",
+    "description": "Professional toilet cleaner brush for effective toilet cleaning.",
+    "readMore": "Toilet cleaner brush provides effective cleaning for toilet bowls and similar surfaces. Professional-grade design with durable bristles for thorough cleaning.",
+    "image": "product_images/toiletcleanerbrush.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Toilet Cleaner Brush. Please provide more details."
+  },
+  {
+    "name": "Trick Clean Liquid Hand Wash",
+    "category": "Cleaning",
+    "description": "Premium liquid hand wash from Trick Clean for effective hand hygiene.",
+    "readMore": "Trick Clean liquid hand wash provides effective hand hygiene with pleasant fragrance. Professional-grade formula suitable for various hand washing applications.",
+    "image": "product_images/TrickCleanLiquidHandWash.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Trick Clean Liquid Hand Wash. Please provide more details."
+  },
+  {
+    "name": "Waste Bags",
+    "category": "Bags",
+    "description": "Heavy-duty waste bags for reliable waste disposal solutions.",
+    "readMore": "Waste bags provide reliable waste disposal solution with durable construction. Professional-grade quality suitable for various waste management applications.",
+    "image": "product_images/Wastebags.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in Waste Bags. Please provide more details."
+  },
+  {
+    "name": "W Cut Plain Disposable Bio Degradable Plastic Bag",
+    "category": "Bags",
+    "description": "Eco-friendly biodegradable plastic bags for sustainable waste disposal.",
+    "readMore": "W Cut plain disposable biodegradable plastic bags offer eco-friendly waste disposal solution. Made from biodegradable materials while maintaining durability and performance.",
+    "image": "product_images/WCutPlainDisposableBioDegradablePlasticBag.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in W Cut Plain Disposable Bio Degradable Plastic Bag. Please provide more details."
+  },
+  {
+    "name": "W Cut Plain Milky White Plastic Carry Bag",
+    "category": "Bags",
+    "description": "Milky white plastic carry bags for retail and commercial use.",
+    "readMore": "W Cut plain milky white plastic carry bags provide convenient carrying solution for retail and commercial applications. Durable construction with reliable performance.",
+    "image": "product_images/WCutPlainMilkyWhitePlasticCarryBag.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in W Cut Plain Milky White Plastic Carry Bag. Please provide more details."
+  },
+  {
+    "name": "White Plastic Strapping Roll",
+    "category": "Materials",
+    "description": "White plastic strapping roll for clean packaging solutions.",
+    "readMore": "White plastic strapping roll provides clean and professional packaging solution. High-quality material suitable for various industrial and commercial applications.",
+    "image": "product_images/Whiteplasticstrappingroll.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in White Plastic Strapping Roll. Please provide more details."
+  },
+  {
+    "name": "WILFANS Spiral Kraft Paper Notebooks",
+    "category": "Stationery",
+    "description": "Eco-friendly spiral kraft paper notebooks for sustainable note-taking.",
+    "readMore": "WILFANS spiral kraft paper notebooks provide eco-friendly note-taking solution with kraft paper construction. Professional-grade quality with spiral binding for easy page turning.",
+    "image": "product_images/WILFANSSpiralKraftPaperNotebooks.jpg",
+    "price": "Price on request",
+    "contactAction": "Hello, I am interested in WILFANS Spiral Kraft Paper Notebooks. Please provide more details."
+  }
+]
